@@ -1,2 +1,2 @@
-# Prueba-t-cnica-maaji
+# Prueba-tecnica-maaji
 Solución de prueba técnica Maaji

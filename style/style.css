@@ -1,0 +1,16 @@
+.registro{
+    background-color: rgb(216, 235, 235);
+    border:3px solid #000000;  
+    border-radius: 5%;  
+    width:500px;
+    margin:0px auto;
+    padding: 30px;
+}
+.year{
+    background-color: rgb(123, 226, 226);
+    border:3px solid #000000;  
+    border-radius: 5%;  
+    width:350px;
+    margin:0px auto;
+    padding: 30px;
+}

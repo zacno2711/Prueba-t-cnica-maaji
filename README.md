@@ -13,12 +13,12 @@ El crud realizado tiene como campos Nombre, Apellido, Teléfono, Correo y posee 
 
 ![](https://firebasestorage.googleapis.com/v0/b/pruebas-adcc0.appspot.com/o/Captura%20de%20pantalla%202023-04-19%20125244.png?alt=media&token=f9462044-788a-4710-bf62-17949499a6a9)
 
-#####Guardar 
+####Guardar 
 1.  Debes de ingresar todos los campos, de no ser así no te permitirá guardar el registro.
 2. El registro se guarda utilizando como primary key a ***Nombre***.
 3. Si el nombre ya existe no te permitirá guardar el registro.
 
-#####Actualizar
+####Actualizar
 1. Debes de ingresar todos los campos, de no ser así no te permitirá actualizar el registro.
 2. Solo se puede actualizar un registro con un ***Nombre*** existente.
 
